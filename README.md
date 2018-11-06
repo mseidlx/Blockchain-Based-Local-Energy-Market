@@ -1,6 +1,8 @@
 # Masterthesis - 16.10.2018
 Matthias Seidl / Jonas Schlund 
 
+FAU Erlangen / Department Computer Science 7
+
 # Implementation of Blockchain-Based and Grid-Friendly Local Energy Markets
 
 The goal of this thesis is to create blockchain-based, grid-friendly LEMs, where, in particular, the use of blockchain technologies as information infrastructure is reviewed, along with different approaches to achieve grid-friendly behavior. As a result, decentralized blockchain-based and grid-friendly Local Energy Markets (LEMs) are conceptualized and implemented as prototypes. Moreover, the implementation of markets and their agents is analyzed through different scenarios showing that it is possible to create blockchain based LEMs reacting in 30-second time-slots to current supply and demand. These markets are also able to contribute to the stability of the
