@@ -1,6 +1,5 @@
 # Masterthesis - 16.10.2018
-Matthias Seidl
-Jonas Schlund 
+Matthias Seidl / Jonas Schlund 
 
 # Implementation of Blockchain-Based and Grid-Friendly Local Energy Markets
 
