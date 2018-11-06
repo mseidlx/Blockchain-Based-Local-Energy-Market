@@ -1,7 +1,7 @@
 # Masterthesis - 16.10.2018
 Matthias Seidl / Jonas Schlund 
 
-FAU Erlangen / Department Computer Science 7
+FAU Erlangen - Department Computer Science 7
 
 # Implementation of Blockchain-Based and Grid-Friendly Local Energy Markets
 
